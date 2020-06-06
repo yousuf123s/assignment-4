@@ -1,0 +1,41 @@
+.navbar {
+    background-color: orangered;
+}
+
+.mainh {
+    color: white;
+}
+
+.Statement{
+    width: 80%;
+    text-align:justify;
+    margin: 20px auto;
+}
+
+    .Intro {
+        text-align:justify;
+        text-align: center;
+        background-color: rgb(0, 153, 255);
+        height: 100px;
+        width: 100%;
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+}
+
+.Intro p{
+    font-size: 68px !important;
+}
+
+.gallary {
+    background-color: rgb(0, 153, 255);
+    height: 140px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 68px !important;
+    
+}
+.Contact1{
+    width: 80%;
+}
+
+
